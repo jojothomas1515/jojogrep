@@ -1,0 +1,122 @@
+Jul 30 07:17:47 kali lightdm[860]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 07:17:48 kali pulseaudio[883]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 08:12:26 kali lightdm[1414]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 08:12:26 kali pulseaudio[883]: Error opening PCM device front:1: No such file or directory
+Jul 30 08:12:26 kali pulseaudio[883]: Error opening PCM device front:1: No such file or directory
+Jul 30 08:12:27 kali pulseaudio[1440]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 08:12:27 kali org.freedesktop.secrets[1662]: GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+Jul 30 08:12:27 kali gnome-keyring-d[1667]: The Secret Service was already initialized
+Jul 30 08:12:29 kali org.freedesktop.thumbnails.Thumbnailer1[1782]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 08:12:29 kali org.freedesktop.thumbnails.Thumbnailer1[1782]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 08:12:29 kali org.freedesktop.thumbnails.Thumbnailer1[1782]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 08:12:29 kali udisksd[1811]: udisks daemon version 2.9.4 starting
+Jul 30 08:12:29 kali udisksd[1811]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jul 30 08:12:29 kali udisksd[1811]: Failed to load the 'mdraid' libblockdev plugin
+Jul 30 08:12:29 kali udisksd[1811]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jul 30 08:12:31 kali gnome-keyring-d[1667]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 08:12:53 kali gnome-keyring-d[1667]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 08:17:43 kali vsce-sign: Package file size:  14734672
+Jul 30 08:17:43 kali vsce-sign: Signature archive file size:  9807
+Jul 30 08:17:43 kali vsce-sign: Manifest file size:  1743
+Jul 30 08:17:43 kali vsce-sign: Signature file size:  12019
+Jul 30 08:17:43 kali vsce-sign: ManifestPackageIntegrityPolicy succeeded.
+Jul 30 08:17:44 kali vsce-sign: SignatureIntegrityPolicy for primary signature succeeded.
+Jul 30 08:17:44 kali vsce-sign: SignatureValidityPolicy for primary signature succeeded.
+Jul 30 08:17:44 kali vsce-sign: SignatureIntegrityPolicy for timestamp signature succeeded.
+Jul 30 08:17:44 kali vsce-sign: SignatureValidityPolicy for timestamp signature succeeded.
+Jul 30 08:17:44 kali vsce-sign: X.509 certificate chain validation will use the fallback certificate bundle for timestamping.
+Jul 30 08:17:45 kali vsce-sign: SignatureTrustPolicy for timestamp signature succeeded.
+Jul 30 08:17:45 kali vsce-sign: X.509 certificate chain validation will use the fallback certificate bundle for code signing.
+Jul 30 08:17:45 kali vsce-sign: SignatureTrustPolicy for primary signature succeeded.
+Jul 30 08:17:45 kali vsce-sign: Primary signature type:  repository primary signature
+Jul 30 08:17:45 kali vsce-sign: Primary signature status:  OK
+Jul 30 08:17:45 kali vsce-sign: Timestamp signature status:  OK
+Jul 30 08:17:45 kali vsce-sign: Exit code:  Success
+Jul 30 08:29:09 kali lightdm[704]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 08:29:11 kali lightdm[782]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 08:29:12 kali pulseaudio[806]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 08:29:21 kali lightdm[1050]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 08:29:21 kali pulseaudio[806]: Error opening PCM device front:1: No such file or directory
+Jul 30 08:29:21 kali pulseaudio[806]: Error opening PCM device front:1: No such file or directory
+Jul 30 08:29:22 kali pulseaudio[1074]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 08:29:22 kali gnome-keyring-d[1301]: The Secret Service was already initialized
+Jul 30 08:29:22 kali org.freedesktop.secrets[1300]: GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+Jul 30 08:29:24 kali udisksd[1424]: udisks daemon version 2.9.4 starting
+Jul 30 08:29:24 kali udisksd[1424]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jul 30 08:29:24 kali udisksd[1424]: Failed to load the 'mdraid' libblockdev plugin
+Jul 30 08:29:24 kali org.freedesktop.thumbnails.Thumbnailer1[1426]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 08:29:24 kali org.freedesktop.thumbnails.Thumbnailer1[1426]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 08:29:24 kali org.freedesktop.thumbnails.Thumbnailer1[1426]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 08:29:24 kali udisksd[1424]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jul 30 08:29:26 kali gnome-keyring-d[1301]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 08:29:44 kali gnome-keyring-d[1301]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 12:04:54 kali lightdm[792]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 12:04:56 kali lightdm[837]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 12:04:57 kali pulseaudio[860]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 12:05:07 kali lightdm[1171]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 12:05:07 kali pulseaudio[860]: Error opening PCM device front:1: No such file or directory
+Jul 30 12:05:07 kali pulseaudio[860]: Error opening PCM device front:1: No such file or directory
+Jul 30 12:05:07 kali pulseaudio[1196]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 12:05:08 kali gnome-keyring-d[1420]: The Secret Service was already initialized
+Jul 30 12:05:08 kali org.freedesktop.secrets[1414]: GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+Jul 30 12:05:09 kali org.freedesktop.thumbnails.Thumbnailer1[1536]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 12:05:09 kali org.freedesktop.thumbnails.Thumbnailer1[1536]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 12:05:09 kali org.freedesktop.thumbnails.Thumbnailer1[1536]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 12:05:09 kali udisksd[1574]: udisks daemon version 2.9.4 starting
+Jul 30 12:05:09 kali udisksd[1574]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jul 30 12:05:09 kali udisksd[1574]: Failed to load the 'mdraid' libblockdev plugin
+Jul 30 12:05:09 kali udisksd[1574]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jul 30 12:05:11 kali gnome-keyring-d[1420]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 12:05:28 kali gnome-keyring-d[1420]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 12:14:38 kali gnome-keyring-d[1420]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 12:49:54 kali org.freedesktop.thumbnails.Cache1[16326]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 12:49:54 kali org.freedesktop.thumbnails.Cache1[16326]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 12:49:54 kali org.freedesktop.thumbnails.Cache1[16326]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 13:13:57 kali gnome-keyring-d[1420]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 13:18:04 kali gnome-keyring-d[1420]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 13:47:02 kali lightdm[30865]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 13:47:03 kali pulseaudio[30888]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 14:38:17 kali lightdm[751]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 14:38:19 kali lightdm[847]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 14:38:20 kali pulseaudio[870]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 14:38:48 kali lightdm[1118]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 14:38:48 kali pulseaudio[870]: Error opening PCM device front:1: No such file or directory
+Jul 30 14:38:48 kali pulseaudio[870]: Error opening PCM device front:1: No such file or directory
+Jul 30 14:38:49 kali pulseaudio[1144]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 14:38:49 kali gnome-keyring-d[1370]: The Secret Service was already initialized
+Jul 30 14:38:49 kali org.freedesktop.secrets[1369]: GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+Jul 30 14:38:51 kali org.freedesktop.thumbnails.Thumbnailer1[1487]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 14:38:51 kali org.freedesktop.thumbnails.Thumbnailer1[1487]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 14:38:51 kali org.freedesktop.thumbnails.Thumbnailer1[1487]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 14:38:51 kali udisksd[1532]: udisks daemon version 2.9.4 starting
+Jul 30 14:38:51 kali udisksd[1532]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jul 30 14:38:51 kali udisksd[1532]: Failed to load the 'mdraid' libblockdev plugin
+Jul 30 14:38:51 kali udisksd[1532]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jul 30 14:38:53 kali gnome-keyring-d[1370]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 14:39:01 kali gnome-keyring-d[1370]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 14:44:46 kali gnome-keyring-d[1370]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 14:50:09 kali gnome-keyring-d[1370]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 15:10:24 kali gnome-keyring-d[1370]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 15:15:37 kali gnome-keyring-d[1370]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 16:32:55 kali lightdm[739]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 16:32:57 kali lightdm[833]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 16:32:58 kali pulseaudio[856]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 16:33:11 kali lightdm[1101]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Jul 30 16:33:11 kali pulseaudio[856]: Error opening PCM device front:1: No such file or directory
+Jul 30 16:33:12 kali pulseaudio[1125]: GetManagedObjects() failed: org.freedesktop.systemd1.NoSuchUnit: Unit dbus-org.bluez.service not found.
+Jul 30 16:33:12 kali gnome-keyring-d[1347]: The Secret Service was already initialized
+Jul 30 16:33:12 kali org.freedesktop.secrets[1345]: GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+Jul 30 16:33:14 kali org.freedesktop.thumbnails.Thumbnailer1[1468]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 16:33:14 kali org.freedesktop.thumbnails.Thumbnailer1[1468]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 16:33:14 kali org.freedesktop.thumbnails.Thumbnailer1[1468]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 16:33:14 kali udisksd[1507]: udisks daemon version 2.9.4 starting
+Jul 30 16:33:14 kali udisksd[1507]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jul 30 16:33:14 kali udisksd[1507]: Failed to load the 'mdraid' libblockdev plugin
+Jul 30 16:33:14 kali udisksd[1507]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Jul 30 16:33:16 kali gnome-keyring-d[1347]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 16:33:33 kali gnome-keyring-d[1347]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 16:50:51 kali gnome-keyring-d[1347]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
+Jul 30 17:48:46 kali org.freedesktop.thumbnails.Thumbnailer1[25343]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 17:48:46 kali org.freedesktop.thumbnails.Thumbnailer1[25343]: Registered thumbnailer /usr/bin/gdk-pixbuf-thumbnailer -s %s %u %o
+Jul 30 17:48:46 kali org.freedesktop.thumbnails.Thumbnailer1[25343]: Registered thumbnailer atril-thumbnailer -s %s %u %o
+Jul 30 17:49:51 kali gnome-keyring-d[1347]: asked to register item /org/freedesktop/secrets/collection/Default_5fkeyring/4, but it's already registered
